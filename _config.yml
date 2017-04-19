@@ -67,8 +67,13 @@ theme: yilia
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type:
+#type: github
+#deploy: https://github.com/namelpj/namelpj.github.io.git
+#branch: master
+
+deploy: https://github.com/namelpj/namelpj.github.io.git
+type: git
+branch: master
 
 
 #所有文章
